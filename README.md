@@ -12,7 +12,7 @@ A responsive **To-Do List App** built using **HTML, CSS, and JavaScript**. It pr
 
 ## 📸 Preview
 
-![To-Do List App Preview](assets/image(1).png)
+![To-Do List App Preview](Assets/preview.png)
 
 ---
 
